@@ -1,4 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
 def echo(a,b):
-    print(a*b)
-echo("bada",8)
+    return a*b
+print(echo("bada",8))
